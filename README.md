@@ -2,7 +2,7 @@
 Analysis of movie data with Python, PostgreSQL, and Jupyter Notebook
 
 ## Resources
-Data Source: movies_metadata.csv, ratings.csv, wikipedia-movies.json
+Data Source: [movies_metadata.csv, ratings.csv, wikipedia-movies.json](https://github.com/monsecc01/Movies-ETL/blob/b20455cd507aea2bfe39baf9ff54ea17c35e8acf/Resources.zip)
 
 Software: Python 3.9, PostgreSQL, Jupyter Notebook
 
